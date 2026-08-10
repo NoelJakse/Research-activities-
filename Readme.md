@@ -58,7 +58,7 @@ By integrating topological data analysis with unsupervised learning, this study 
 
 [8] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
 
-## Machine learning for density functional theory: application to transition-metal chemistry
+## Machine learning for density functional theory: application to transition-metal chemistry 
 
 Combining artificial neural networks with density functional theory, this study delivers significantly improved predictions of adiabatic energy differences in transition-metal complexes while retaining the efficiency of DFT calculations. The approach demonstrates how data-driven models can overcome intrinsic limitations of conventional exchange-correlation functionals, opening new opportunities for computational materials design and molecular discovery.
 
