@@ -28,7 +28,7 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 Performed in collaboration with the DLR (German Aerospace Center) within the MATHEUS sounding rocket programme, this study combines microgravity experiments, neutron scattering, and atomistic simulations to quantify interdiffusion in liquid Al–Cu alloys. By exploiting one of the world’s few platforms for fully automated materials experiments in prolonged microgravity, it delivers benchmark diffusion data free from buoyancy-induced convection, providing new insight into mass transport in liquid metals [4]. A search for a universal diffusion-entropy law  reminiscent of a profound structure diffusion relation is currently investigated [5,6]. 
 
-[4] E. Sondermann, N. Jakse, K. Binder, A. Mielke, D. Heuskin,  F. Kargl, and A. Meyer A. Concentration dependence of interdiffusion in aluminum-rich Al-Cu melts. Phys. Rev. B 99, 24204 (2019).[DOI](https://doi.org/10.1103/PhysRevB.99.024204)
+[4] E. Sondermann, N. Jakse, K. Binder, A. Mielke, D. Heuskin,  F. Kargl, and A. Meyer, Phys. Rev. B 99, 24204 (2019).[DOI](https://doi.org/10.1103/PhysRevB.99.024204)
 
 [5] F. Demmel and N. Jakse, Physical Review B 111, L081104 (2025).[DOI](https://doi.org/10.1103/PhysRevB.111.L081104)
 
