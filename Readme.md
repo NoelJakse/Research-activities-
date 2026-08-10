@@ -4,13 +4,13 @@
 ---
 ---
 
-# Atomistic simulations of crystal nucleation
+# Atomistic Simulations of Crystal Nucleation
 
 ---
 
 Over the past two decades, advances in atomistic simulations have profoundly transformed our understanding of crystal nucleation in metals and alloys. Rather than being viewed as a purely stochastic process described solely by classical nucleation theory, crystallization is now recognized as emerging from the structural fluctuations inherent to undercooled liquids. Increasing evidence indicates that local structural precursors develop prior to nucleation and either facilitate or inhibit the formation of stable crystalline embryos. Nucleation thus results from a subtle competition between crystal-like ordering and topologically incompatible motifs, including icosahedral and Frank–Kasper polyhedral arrangements, which introduce geometrical frustration and may suppress crystallization in favor of glass formation [1]. This modern picture establishes a direct connection between local atomic order, liquid dynamics, thermodynamic stability, and crystallization kinetics, providing a unified framework for understanding—and ultimately predicting—the solidification behavior of metallic systems [2,3].
 
-[1] A. Pasturel, N. Jakse, npj Comput Mater 3, 33 (2017). [DOI}(https://doi.org/10.1038/s41524-017-0034-y)
+[1] A. Pasturel, N. Jakse, npj Comput Mater 3, 33 (2017). [DOI](https://doi.org/10.1038/s41524-017-0034-y)
 
 [2] S. Becker, E. Devijver, R. Molinier, N. Jakse, Physical Review B, 102(10), 104205 (2020).[DOI](https://doi.org/10.1103/PhysRevB.102.104205)
 
