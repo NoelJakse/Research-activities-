@@ -1,5 +1,5 @@
 
-# Research Activities 
+# Recent Research Activities 
 
 ---
 
@@ -48,7 +48,7 @@ By identifying the most informative quantum-mechanical training data, this study
 
 ## Unsupervised topological learning 
 
-By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [7,8].
+By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework based on persistence homology within the Topolical Data Analysis offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [7,8].
 
 <p align="center">
 <img width="1501" height="436" alt="Unsupervised_topological learning_Github" src="https://github.com/user-attachments/assets/5dda1992-a23d-4c6b-9fc2-b822dc95520c" />
@@ -60,11 +60,13 @@ By integrating topological data analysis with unsupervised learning, this study 
 
 ## Machine learning for density functional theory: application to transition-metal chemistry 
 
-Combining artificial neural networks with density functional theory, this study delivers significantly improved predictions of adiabatic energy differences in transition-metal complexes while retaining the efficiency of DFT calculations. The approach demonstrates how data-driven models can overcome intrinsic limitations of conventional exchange-correlation functionals, opening new opportunities for computational materials design and molecular discovery.
+Combining artificial neural networks with density functional theory, this study delivers significantly improved predictions of adiabatic energy differences in transition-metal complexes while retaining the efficiency of DFT calculations [9]. The approach demonstrates how data-driven models can overcome intrinsic limitations of conventional exchange-correlation functionals, opening new opportunities for computational materials design and molecular discovery, as well as a more reliable baseline for training machine learning interatomic potentials.  
 
 <p align="center">
 <img width="1360" height="452" alt="DFT-ML-Github" src="https://github.com/user-attachments/assets/5b27bd20-c8dc-4a8e-b5dd-30c55a3096cb" />
 </p>
+
+[9] J. P. Almeida  de Mendonça, L. A. Mariano, E. Devijver, N. Jakse,  and R. Poloni, Journal of Chemical Theory and Computation19, 7555 (2023). [DOI](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.3c00600&ref=pdf)
 
 ---
 
