@@ -110,5 +110,14 @@ Combining artificial neural networks with density functional theory, this study 
 [16] J. P. Almeida  de Mendonça, L. A. Mariano, E. Devijver, N. Jakse,  and R. Poloni, Journal of Chemical Theory and Computation19, 7555 (2023). [DOI](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.3c00600&ref=pdf)
 
 ---
+---
 
+**License**
+
+The documentation and figures in this repository are distributed under the
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+© 2026 Noël Jakse
+
+---
 ...
