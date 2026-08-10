@@ -17,7 +17,7 @@ A major research activity focuses on the development of machine learning interat
 <img width="1143" height="482" alt="MLIP-github" src="https://github.com/user-attachments/assets/f14e66e5-2de6-41f1-86e8-87e70c51e688" />
     <em>General workflow for MLIP construction </em>
 </p>
-
+ 
 These developments provide the computational foundation for studying crystal nucleation, phase selection and microstructure formation in pure metallic systems and alloys.
 
 <p align="center">
