@@ -25,13 +25,21 @@ These developments provide the computational foundation for studying crystal nuc
 <em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful approach for investigating complex nucleation phenomena in technologically important metallic alloys.</em>
 </p>
 
+[1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI]([https://simap.grenoble-inp.fr](https://doi.org/10.1088/1361-648X/ac9d7d))
+
+[2] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, Machine Learning:  Science and Technology 5, 025043 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad450e)
+
+[3] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, The Journal of Chemical Physics 163 (2025). [DOI](https://doi.org/10.1063/5.0299431)
+
+[4] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025).[DOI](https://doi.org/10.1103/jwmw-3lds)
+
 ## Active Learning for Materials Discovery
 
 By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials.
 
 <p align="center">
 <img width="1092" height="538" alt="Active_learning_Github" src="https://github.com/user-attachments/assets/fd4e793f-15b8-43f5-b1cc-90d28023f564" />
-  <em>Active Learning workflow applied to spin-crossover MOF.</em>
+  <em>Active Learning workflow applied to spin-crossover MOF discovery.</em>
 </p>
 
 ## Unsupervised topological learning 
