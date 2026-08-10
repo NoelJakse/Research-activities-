@@ -22,7 +22,7 @@ These developments provide the computational foundation for studying crystal nuc
 
 <p align="center">
 <img width="1188" height="627" alt="Bizot-2-Github" src="https://github.com/user-attachments/assets/81c3e0f1-50c6-4c02-990b-a608c8ff51c6" />
-<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [Fron Ref. 4](https://doi.org/10.1103/jwmw-3lds).</em>
+<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [4].</em>
 </p>
 
 [1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI]([https://simap.grenoble-inp.fr](https://doi.org/10.1088/1361-648X/ac9d7d))
@@ -35,20 +35,28 @@ These developments provide the computational foundation for studying crystal nuc
 
 ## Active Learning for Materials Discovery
 
-By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials.
+By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials [5, 6].
 
 <p align="center">
 <img width="1092" height="538" alt="Active_learning_Github" src="https://github.com/user-attachments/assets/fd4e793f-15b8-43f5-b1cc-90d28023f564" />
-  <em>Active Learning workflow applied to spin-crossover MOF discovery.</em>
+  <em>Active Learning workflow applied to spin-crossover MOF discovery [6].</em>
 </p>
+
+[5] A. Jose, J. P. A. de Mendonça, E. Devijver, N. Jakse, V. Monbet, and R. Poloni, Data Mining and Knowledge Discovery 38, 420 (2024). [DOI](https://doi.org/10.1007/s10618-023-00951-7)
+
+[6] A. Jose, E. Devijver, N. Jakse,  and R. Poloni, Journal of the American Chemical Society 146, 6134 (2024). [DOI](https://doi.org/10.1021/jacs.3c13687)
 
 ## Unsupervised topological learning 
 
-By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials.
+By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [7,8].
 
 <p align="center">
 <img width="1501" height="436" alt="Unsupervised_topological learning_Github" src="https://github.com/user-attachments/assets/5dda1992-a23d-4c6b-9fc2-b822dc95520c" />
 </p>
+
+[7] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Physical Review E 105, 045304 (2022). [DOI](https://doi.org/10.1103/PhysRevE.105.045304)
+
+[8] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
 
 ## Machine learning for density functional theory: application to transition-metal chemistry
 
