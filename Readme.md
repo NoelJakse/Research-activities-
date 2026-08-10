@@ -25,7 +25,7 @@ These developments provide the computational foundation for studying crystal nuc
 <em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [4].</em>
 </p>
 
-[1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI]([https://simap.grenoble-inp.fr](https://doi.org/10.1088/1361-648X/ac9d7d))
+[1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI](https://doi.org/10.1088/1361-648X/ac9d7d)
 
 [2] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, Machine Learning:  Science and Technology 5, 025043 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad450e)
 
