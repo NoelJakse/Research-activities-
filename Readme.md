@@ -5,7 +5,7 @@
 
 ---
 
-# Machine Learning for computational materials science.
+# Machine Learning for computational materials science
 
 ---
 
@@ -22,7 +22,7 @@ These developments provide the computational foundation for studying crystal nuc
 
 <p align="center">
 <img width="1188" height="627" alt="Bizot-2-Github" src="https://github.com/user-attachments/assets/81c3e0f1-50c6-4c02-990b-a608c8ff51c6" />
-<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful approach for investigating complex nucleation phenomena in technologically important metallic alloys.</em>
+<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [[4]](https://doi.org/10.1103/jwmw-3lds).</em>
 </p>
 
 [1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI]([https://simap.grenoble-inp.fr](https://doi.org/10.1088/1361-648X/ac9d7d))
