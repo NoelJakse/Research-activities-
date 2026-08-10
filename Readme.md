@@ -18,6 +18,32 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 ---
 
+# Liquid dynamics 
+
+---
+
+## Revealing atomic diffusion in liquid alloys through a combination of atomistic simulation and experiments
+
+---
+
+Performed in collaboration with the DLR (German Aerospace Center) within the MATHEUS sounding rocket programme, this study combines microgravity experiments, neutron scattering, and atomistic simulations to quantify interdiffusion in liquid Al–Cu alloys. By exploiting one of the world’s few platforms for fully automated materials experiments in prolonged microgravity, it delivers benchmark diffusion data free from buoyancy-induced convection, providing new insight into mass transport in liquid metals [4]. A search for a universal diffusion-entropy law  reminiscent of a profound structure diffusion relation is currently investigated [5,6]. 
+
+[4] E. Sondermann, N. Jakse, K. Binder, A. Mielke, D. Heuskin,  F. Kargl, and A. Meyer A. Concentration dependence of interdiffusion in aluminum-rich Al-Cu melts. Phys. Rev. B 99, 24204 (2019).[DOI](https://doi.org/10.1103/PhysRevB.99.024204)
+
+[5] F. Demmel and N. Jakse, Physical Review B 111, L081104 (2025).[DOI](https://doi.org/10.1103/PhysRevB.111.L081104)
+
+[6] F. Demmel, L. Hennet, and N. Jakse, Sci. Rep. 11, 11815 (2021).[DOI](https://doi.org/10.1038/s41598-021-91062-0)
+
+---
+
+## Collective dynamics: First direct evidence of non-acoustic collective modes in a monatomic liquid under extreme conditions
+
+Combining ab initio simulations, machine-learning interatomic potentials, and the Generalized Collective Modes theory, this study uncovers a previously unknown branch of propagating excitations arising from the relative motion between atoms and their local coordination cages. The results redefine our understanding of collective dynamics in simple liquids beyond the conventional hydrodynamic picture.
+ 
+[7] T. Bryk, G. Ruocco, J.-F. Wax, and N. Jakse Commun. Phys. (Nature) 9, 187 (2026).[DOI](https://doi.org/10.1038/s42005-026-02602-x)
+
+---
+
 # Machine Learning for computational materials science
 
 ---
@@ -31,45 +57,46 @@ A major research activity focuses on the development of machine learning interat
     <em>General workflow for MLIP construction </em>
 </p>
  
-These developments provide the computational foundation for studying crystal nucleation, phase selection and microstructure formation in pure metallic systems [1,2] and alloys [3,4].
+These developments provide the computational foundation for studying crystal nucleation, phase selection and microstructure formation in pure metallic systems [8,9] and alloys [10,11].
 
 <p align="center">
 <img width="1188" height="627" alt="Bizot-2-Github" src="https://github.com/user-attachments/assets/81c3e0f1-50c6-4c02-990b-a608c8ff51c6" />
-<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [4].</em>
+<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful tool for investigating nucleation phenomena in technologically important alloys [11].</em>
 </p>
 
-[1] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI](https://doi.org/10.1088/1361-648X/ac9d7d)
+[8] N. Jakse, J. Sandberg, L. F. Granz, A. Saliou, P. Jarry, E. Devijver, T. Voigtmann, J. Horbach,  and A. Meyer, Journal of Physics:  Condensed Matter 35, 035402 (2023). [DOI](https://doi.org/10.1088/1361-648X/ac9d7d)
 
-[2] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, Machine Learning:  Science and Technology 5, 025043 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad450e)
+[9] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, Machine Learning:  Science and Technology 5, 025043 (2024). [DOI](https://doi.org/10.1088/2632-2153/ad450e)
 
-[3] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, The Journal of Chemical Physics 163 (2025). [DOI](https://doi.org/10.1063/5.0299431)
+[10] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, The Journal of Chemical Physics 163 (2025). [DOI](https://doi.org/10.1063/5.0299431)
 
-[4] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025).[DOI](https://doi.org/10.1103/jwmw-3lds)
+[11] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025).[DOI](https://doi.org/10.1103/jwmw-3lds)
 
 ## Active Learning for Materials Discovery
 
-By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials [5, 6].
+By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials [12, 13].
 
 <p align="center">
 <img width="1092" height="538" alt="Active_learning_Github" src="https://github.com/user-attachments/assets/fd4e793f-15b8-43f5-b1cc-90d28023f564" />
-  <em>Active Learning workflow applied to spin-crossover MOF discovery [6].</em>
+  <em>Active Learning workflow applied to spin-crossover MOF discovery [13].</em>
 </p>
 
-[5] A. Jose, J. P. A. de Mendonça, E. Devijver, N. Jakse, V. Monbet, and R. Poloni, Data Mining and Knowledge Discovery 38, 420 (2024). [DOI](https://doi.org/10.1007/s10618-023-00951-7)
+[12] A. Jose, J. P. A. de Mendonça, E. Devijver, N. Jakse, V. Monbet, and R. Poloni, Data Mining and Knowledge Discovery 38, 420 (2024). [DOI](https://doi.org/10.1007/s10618-023-00951-7)
 
-[6] A. Jose, E. Devijver, N. Jakse,  and R. Poloni, Journal of the American Chemical Society 146, 6134 (2024). [DOI](https://doi.org/10.1021/jacs.3c13687)
+[13] A. Jose, E. Devijver, N. Jakse,  and R. Poloni, Journal of the American Chemical Society 146, 6134 (2024). [DOI](https://doi.org/10.1021/jacs.3c13687)
 
 ## Unsupervised topological learning 
 
-By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework based on persistence homology within the Topolical Data Analysis offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [7,8].
+By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework based on persistence homology within the Topolical Data Analysis offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [14,15].
 
 <p align="center">
 <img width="1501" height="436" alt="Unsupervised_topological learning_Github" src="https://github.com/user-attachments/assets/5dda1992-a23d-4c6b-9fc2-b822dc95520c" />
+  <em>Unsupervised topological Learning workflow [15].</em>
 </p>
 
-[7] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Physical Review E 105, 045304 (2022). [DOI](https://doi.org/10.1103/PhysRevE.105.045304)
+[14] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Physical Review E 105, 045304 (2022). [DOI](https://doi.org/10.1103/PhysRevE.105.045304)
 
-[8] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
+[15] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
 
 ## Machine learning for density functional theory: application to transition-metal chemistry 
 
@@ -77,9 +104,10 @@ Combining artificial neural networks with density functional theory, this study 
 
 <p align="center">
 <img width="1360" height="452" alt="DFT-ML-Github" src="https://github.com/user-attachments/assets/5b27bd20-c8dc-4a8e-b5dd-30c55a3096cb" />
+     <em>Machine Learning workflow for training DFT functionals [13].</em>
 </p>
 
-[9] J. P. Almeida  de Mendonça, L. A. Mariano, E. Devijver, N. Jakse,  and R. Poloni, Journal of Chemical Theory and Computation19, 7555 (2023). [DOI](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.3c00600&ref=pdf)
+[16] J. P. Almeida  de Mendonça, L. A. Mariano, E. Devijver, N. Jakse,  and R. Poloni, Journal of Chemical Theory and Computation19, 7555 (2023). [DOI](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.3c00600&ref=pdf)
 
 ---
 
