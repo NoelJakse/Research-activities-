@@ -18,14 +18,13 @@ A major research activity focuses on the development of machine learning interat
     <em>General workflow for MLIP construction </em>
 </p>
  
-These developments provide the computational foundation for studying crystal nucleation, phase selection and microstructure formation in pure metallic systems and alloys.
+These developments provide the computational foundation for studying crystal nucleation, phase selection and microstructure formation in pure metallic systems [1,2] and alloys [3,4].
 
 <p align="center">
 <img width="1188" height="627" alt="Bizot-2-Github" src="https://github.com/user-attachments/assets/81c3e0f1-50c6-4c02-990b-a608c8ff51c6" />
-<em>
-Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful approach for investigating complex nucleation phenomena in technologically important metallic alloys.
-</em>
+<em> Combining large-scale atomistic simulations with state-of-the-art machine-learned interatomic potentials, this study reveals the microscopic mechanisms governing phase selection during eutectic solidification. The results establish machine-learning molecular dynamics as a powerful approach for investigating complex nucleation phenomena in technologically important metallic alloys.</em>
 </p>
+
 ## Active Learning for Materials Discovery
 
 By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials.
