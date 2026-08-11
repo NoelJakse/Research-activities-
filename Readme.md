@@ -107,7 +107,7 @@ Combining artificial neural networks with density functional theory, this study 
 
 <p align="center">
 <img width="1360" height="452" alt="DFT-ML-Github" src="https://github.com/user-attachments/assets/5b27bd20-c8dc-4a8e-b5dd-30c55a3096cb" />
-     <em>Machine Learning workflow for training DFT functionals. Permission to reuse from Ref. 16 by the American Chemical Society..</em>
+     <em>Machine Learning workflow for training DFT functionals. Permission to reuse from Ref. 16 by the American Chemical Society.</em>
 </p>
 
 [16] J. P. Almeida  de Mendonça, L. A. Mariano, E. Devijver, N. Jakse,  and R. Poloni, Journal of Chemical Theory and Computation19, 7555 (2023). [DOI](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acs.jctc.3c00600&ref=pdf)
