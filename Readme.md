@@ -21,7 +21,7 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 ---
 
-# Liquid dynamics 
+# Liquid Dynamics 
 
 ---
 
@@ -47,11 +47,11 @@ Combining ab initio simulations, machine-learning interatomic potentials, and th
 
 ---
 
-# Machine Learning for computational materials science
+# Machine Learning for Computational Materials Science
 
 ---
 
-## Machine Learning Interatomic Potentials for liquid structure and crystal Nucleation
+## Machine learning interatomic potentials for liquid structure and crystal Nucleation
 
 A major research activity focuses on the development of machine learning interatomic potentials (MLIPs) specifically designed for liquid and undercooled materials. Unlike conventional approaches primarily optimized for crystalline phases, our strategy targets an accurate description of the atomic structure and dynamics of liquids over a wide range of thermodynamic conditions. Particular attention is paid to thermodynamic states relevant to transport phenomena, structural relaxation, supercooling and the early stages of crystallization. These MLIPs enable simulations involving millions of atoms over nanosecond time scales while retaining near first-principles accuracy. This computational efficiency opens the way to quantitative investigations of diffusion, viscosity, collective dynamics, dynamic heterogeneity and nucleation mechanisms that remain inaccessible to direct *ab initio* simulations.
 
