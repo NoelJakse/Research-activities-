@@ -7,7 +7,7 @@ Recent research is driven by the ambition to contribute to the predictive unders
 
 ---
 
-# Atomistic Simulations of Crystal Nucleation
+## Atomistic Simulations of Crystal Nucleation
 
 ---
 
@@ -21,11 +21,11 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 ---
 
-# Liquid Dynamics 
+## Liquid Dynamics 
 
 ---
 
-## Revealing atomic diffusion in liquid alloys through a combination of atomistic simulation and experiments
+### Revealing atomic diffusion in liquid alloys through a combination of atomistic simulation and experiments
 
 ---
 
@@ -39,7 +39,7 @@ Performed in collaboration with the DLR (German Aerospace Center) within the MAT
 
 ---
 
-## Collective dynamics: First direct evidence of non-acoustic collective modes in a monatomic liquid under extreme conditions
+### Collective dynamics: First direct evidence of non-acoustic collective modes in a monatomic liquid under extreme conditions
 
 Combining ab initio simulations, machine-learning interatomic potentials, and the Generalized Collective Modes theory, this study uncovers a previously unknown branch of propagating excitations arising from the relative motion between atoms and their local coordination cages. The results redefine our understanding of collective dynamics in simple liquids beyond the conventional hydrodynamic picture.
  
@@ -47,11 +47,11 @@ Combining ab initio simulations, machine-learning interatomic potentials, and th
 
 ---
 
-# Machine Learning for Computational Materials Science
+## Machine Learning for Computational Materials Science
 
 ---
 
-## Machine learning interatomic potentials for liquid structure and crystal Nucleation
+### Machine learning interatomic potentials for liquid structure and crystal Nucleation
 
 A major research activity focuses on the development of machine learning interatomic potentials (MLIPs) specifically designed for liquid and undercooled materials. Unlike conventional approaches primarily optimized for crystalline phases, our strategy targets an accurate description of the atomic structure and dynamics of liquids over a wide range of thermodynamic conditions. Particular attention is paid to thermodynamic states relevant to transport phenomena, structural relaxation, supercooling and the early stages of crystallization. These MLIPs enable simulations involving millions of atoms over nanosecond time scales while retaining near first-principles accuracy. This computational efficiency opens the way to quantitative investigations of diffusion, viscosity, collective dynamics, dynamic heterogeneity and nucleation mechanisms that remain inaccessible to direct *ab initio* simulations.
 
@@ -75,7 +75,7 @@ These developments provide the computational foundation for studying crystal nuc
 
 [11] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025).[DOI](https://doi.org/10.1103/jwmw-3lds)
 
-## Active Learning for Materials Discovery
+### Active Learning for Materials Discovery
 
 By identifying the most informative quantum-mechanical training data, this study shows that accurate prediction of MOF properties can be achieved with a fraction of the computational effort required by conventional approaches. The work establishes active learning as a powerful framework for developing data-efficient machine-learning models and enabling high-throughput discovery of advanced porous materials [12, 13].
 
@@ -88,7 +88,7 @@ By identifying the most informative quantum-mechanical training data, this study
 
 [13] A. Jose, E. Devijver, N. Jakse,  and R. Poloni, Journal of the American Chemical Society 146, 6134 (2024). [DOI](https://doi.org/10.1021/jacs.3c13687)
 
-## Unsupervised topological learning 
+### Unsupervised topological learning 
 
 By integrating topological data analysis with unsupervised learning, this study demonstrates that the onset of crystallization can be detected directly from atomistic configurations without prior knowledge of the underlying crystal structure. The proposed framework based on persistence homology within the Topolical Data Analysis offers a general, interpretable, and transferable strategy for studying phase transitions and rare-event phenomena across a wide range of materials [14,15].
 
@@ -101,7 +101,7 @@ By integrating topological data analysis with unsupervised learning, this study 
 
 [15] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
 
-## Machine learning for density functional theory: application to transition-metal chemistry 
+### Machine learning for density functional theory: application to transition-metal chemistry 
 
 Combining artificial neural networks with density functional theory, this study delivers significantly improved predictions of adiabatic energy differences in transition-metal complexes while retaining the efficiency of DFT calculations [9]. The approach demonstrates how data-driven models can overcome intrinsic limitations of conventional exchange-correlation functionals, opening new opportunities for computational materials design and molecular discovery, as well as a more reliable baseline for training machine learning interatomic potentials.  
 
@@ -114,7 +114,7 @@ Combining artificial neural networks with density functional theory, this study 
 
 ---
 
-# Enabling reproducible computational materials science across heterogeneous computing platforms
+## Enabling reproducible computational materials science across heterogeneous computing platforms
 
 This study introduces a container-based ecosystem that makes complex materials science codes and workflows portable, reproducible, and interoperable from personal computers to Europe’s largest supercomputers. By addressing one of the major challenges of computational research—software reproducibility—it lays the foundations for FAIR, scalable, and collaborative digital materials science [17].
 
