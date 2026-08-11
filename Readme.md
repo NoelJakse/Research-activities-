@@ -81,7 +81,7 @@ By identifying the most informative quantum-mechanical training data, this study
 
 <p align="center">
 <img width="1092" height="538" alt="Active_learning_Github" src="https://github.com/user-attachments/assets/fd4e793f-15b8-43f5-b1cc-90d28023f564" />
-  <em>Active Learning workflow applied to spin-crossover MOF discovery [13].</em>
+  <em>Active Learning workflow applied to spin-crossover MOF discovery. Permission to reuse from Ref. 13 by the American Chemical Society.</em>
 </p>
 
 [12] A. Jose, J. P. A. de Mendonça, E. Devijver, N. Jakse, V. Monbet, and R. Poloni, Data Mining and Knowledge Discovery 38, 420 (2024). [DOI](https://doi.org/10.1007/s10618-023-00951-7)
