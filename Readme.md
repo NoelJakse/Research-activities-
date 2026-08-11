@@ -15,9 +15,9 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 [1] A. Pasturel, N. Jakse, npj Comput Mater 3, 33 (2017). [DOI](https://doi.org/10.1038/s41524-017-0034-y)
 
-[2] S. Becker, E. Devijver, R. Molinier, N. Jakse, Physical Review B, 102(10), 104205 (2020).[DOI](https://doi.org/10.1103/PhysRevB.102.104205)
+[2] S. Becker, E. Devijver, R. Molinier, N. Jakse, Physical Review B, 102(10), 104205 (2020). [DOI](https://doi.org/10.1103/PhysRevB.102.104205)
 
-[3] B. Shang, N. Jakse, P. Guan, W. Wang,  and J.-l. Barrat, Acta Materialia 246, 118668 (2023) [DOI](https://doi.org/10.1016/j.actamat.2022.118668).
+[3] B. Shang, N. Jakse, P. Guan, W. Wang,  and J.-l. Barrat, Acta Materialia 246, 118668 (2023). [DOI](https://doi.org/10.1016/j.actamat.2022.118668).
 
 ---
 
@@ -31,11 +31,11 @@ Over the past two decades, advances in atomistic simulations have profoundly tra
 
 Performed in collaboration with the DLR (German Aerospace Center) within the MATHEUS sounding rocket programme, this study combines microgravity experiments, neutron scattering, and atomistic simulations to quantify interdiffusion in liquid Al–Cu alloys. By exploiting one of the world’s few platforms for fully automated materials experiments in prolonged microgravity, it delivers benchmark diffusion data free from buoyancy-induced convection, providing new insight into mass transport in liquid metals [4]. A search for a universal diffusion-entropy law  reminiscent of a profound structure diffusion relation is currently investigated [5,6]. 
 
-[4] E. Sondermann, N. Jakse, K. Binder, A. Mielke, D. Heuskin,  F. Kargl, and A. Meyer, Phys. Rev. B 99, 24204 (2019).[DOI](https://doi.org/10.1103/PhysRevB.99.024204)
+[4] E. Sondermann, N. Jakse, K. Binder, A. Mielke, D. Heuskin,  F. Kargl, and A. Meyer, Phys. Rev. B 99, 24204 (2019). [DOI](https://doi.org/10.1103/PhysRevB.99.024204)
 
-[5] F. Demmel and N. Jakse, Physical Review B 111, L081104 (2025).[DOI](https://doi.org/10.1103/PhysRevB.111.L081104)
+[5] F. Demmel and N. Jakse, Physical Review B 111, L081104 (2025). [DOI](https://doi.org/10.1103/PhysRevB.111.L081104)
 
-[6] F. Demmel, L. Hennet, and N. Jakse, Sci. Rep. 11, 11815 (2021).[DOI](https://doi.org/10.1038/s41598-021-91062-0)
+[6] F. Demmel, L. Hennet, and N. Jakse, Sci. Rep. 11, 11815 (2021). [DOI](https://doi.org/10.1038/s41598-021-91062-0)
 
 ---
 
@@ -43,7 +43,7 @@ Performed in collaboration with the DLR (German Aerospace Center) within the MAT
 
 Combining ab initio simulations, machine-learning interatomic potentials, and the Generalized Collective Modes theory, this study uncovers a previously unknown branch of propagating excitations arising from the relative motion between atoms and their local coordination cages. The results redefine our understanding of collective dynamics in simple liquids beyond the conventional hydrodynamic picture.
  
-[7] T. Bryk, G. Ruocco, J.-F. Wax, and N. Jakse Commun. Phys. (Nature) 9, 187 (2026).[DOI](https://doi.org/10.1038/s42005-026-02602-x)
+[7] T. Bryk, G. Ruocco, J.-F. Wax, and N. Jakse Commun. Phys. (Nature) 9, 187 (2026). [DOI](https://doi.org/10.1038/s42005-026-02602-x)
 
 ---
 
@@ -73,7 +73,7 @@ These developments provide the computational foundation for studying crystal nuc
 
 [10] J. Sandberg, T. Voigtmann, E. Devijver,  and N. Jakse, The Journal of Chemical Physics 163 (2025). [DOI](https://doi.org/10.1063/5.0299431)
 
-[11] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025).[DOI](https://doi.org/10.1103/jwmw-3lds)
+[11] Q. Bizot and N. Jakse, Physical Review Materials 9, 123404 (2025). [DOI](https://doi.org/10.1103/jwmw-3lds)
 
 ### Active Learning for Materials Discovery
 
@@ -99,7 +99,7 @@ By integrating topological data analysis with unsupervised learning, this study 
 
 [14] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Physical Review E 105, 045304 (2022). [DOI](https://doi.org/10.1103/PhysRevE.105.045304)
 
-[15] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022) [DOI](https://doi.org/10.1038/s41598-022-06963-5).
+[15] S. Becker, E. Devijver, R. Molinier,  and N. Jakse, Scientific Reports 12, 3195 (2022). [DOI](https://doi.org/10.1038/s41598-022-06963-5).
 
 ### Machine learning for density functional theory: application to transition-metal chemistry 
 
@@ -118,7 +118,7 @@ Combining artificial neural networks with density functional theory, this study 
 
 This study introduces a container-based ecosystem that makes complex materials science codes and workflows portable, reproducible, and interoperable from personal computers to Europe’s largest supercomputers. By addressing one of the major challenges of computational research—software reproducibility—it lays the foundations for FAIR, scalable, and collaborative digital materials science [17].
 
-[17] D. Bissuel, L. Orveillon, B. Arrondeau, J.P., Almeida de Mendonça, J. Daubin, ... and N. Jakse, Reproducible container solutions for codes and workflows in materials science. Advanced Engineering Materials, e202503185 (2026). [DOI]()
+[17] D. Bissuel, L. Orveillon, B. Arrondeau, J.P., Almeida de Mendonça, J. Daubin, ... and N. Jakse, Reproducible container solutions for codes and workflows in materials science. Advanced Engineering Materials, e202503185 (2026). [DOI](https://doi.org/10.1002/adem.202503185)
 
 ---
 ---
@@ -131,4 +131,3 @@ The documentation and figures in this repository are distributed under the
 © 2026 Noël Jakse
 
 ---
-...
